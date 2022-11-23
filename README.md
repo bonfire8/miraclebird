@@ -1,9 +1,5 @@
 ![배경1](exec/header.png)
 
-👉 [서비스 페이지](https://j7c107.p.ssafy.io)
-
-👉 [노션](https://few-mat-bba.notion.site/6ed917c7a7214d1c911bd2936e75c431)
-
 <!-- - 👉 [시연영상]() -->
 
 <br />
@@ -279,4 +275,7 @@
 ## 🎸 ETC
 
 - 포팅메뉴얼 및 기타 정보
+  
   - [보러가기](exec/README.md)
+
+-  [노션](https://few-mat-bba.notion.site/6ed917c7a7214d1c911bd2936e75c431)
